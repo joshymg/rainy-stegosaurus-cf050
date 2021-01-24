@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: 3ITALIANI
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Bringing you the most authentic Italian gelato, chocolate, and espresso
+      from the streets of Italy. Come and experience the "Taste of Love" with
+      us! Our shop is now open at the Sheraton Hong Kong Tung Chung Hotel. 
     actions:
       - label: Learn More
         url: /features
