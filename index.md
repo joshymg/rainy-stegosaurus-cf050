@@ -15,7 +15,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/logo-3-italiani-160x135.jpg
+    image: images/3italiani-banner1-2-1080x1080.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
