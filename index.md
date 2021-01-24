@@ -8,7 +8,7 @@ sections:
       from the streets of Italy. Come and experience the "Taste of Love" with
       us! Our shop is now open at the Sheraton Hong Kong Tung Chung Hotel. 
     actions:
-      - label: Order now
+      - label: Order NOW
         url: /features
         style: primary
       - label: Contact Us
