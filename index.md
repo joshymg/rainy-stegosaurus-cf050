@@ -1,5 +1,5 @@
 ---
-title: 3Home
+title: 3italiani-Home
 sections:
   - type: hero_section
     title: 3ITALIANI
